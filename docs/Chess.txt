@@ -1,0 +1,37 @@
+CHESS — OFFICIAL RULES SUMMARY
+
+OVERVIEW
+Chess is a two-player strategy board game played on an 8x8 square board. Players control 16 pieces each — one army of light pieces and one of dark. The goal is to checkmate the opponent's King, meaning the King is under attack and cannot escape. The player who checkmates the opponent's King wins.
+
+COMPONENTS
+1 board of 64 squares in an 8x8 grid, 32 pieces total: each player has 1 King, 1 Queen, 2 Rooks, 2 Bishops, 2 Knights, and 8 Pawns.
+
+SETUP
+Place the board so that each player has a light square in the bottom-right corner. Place pieces on the first two rows closest to each player. Back row from left to right: Rook, Knight, Bishop, Queen, King, Bishop, Knight, Rook. Place all 8 Pawns on the second row. The Queen always goes on her own color — light Queen on light square, dark Queen on dark square. Light pieces move first.
+
+HOW PIECES MOVE
+KING: Moves one square in any direction. Cannot move into check.
+QUEEN: Moves any number of squares in any direction — horizontal, vertical, or diagonal.
+ROOK: Moves any number of squares horizontally or vertically.
+BISHOP: Moves any number of squares diagonally. Each Bishop stays on its starting color for the entire game.
+KNIGHT: Moves in an L-shape — two squares in one direction and one square perpendicular. Knights are the only pieces that can jump over other pieces.
+PAWN: Moves forward one square. On its first move, a Pawn may advance two squares. Pawns capture diagonally one square forward. Pawns cannot move backward.
+
+SPECIAL MOVES
+EN PASSANT: If a Pawn advances two squares from its starting position and lands beside an opponent's Pawn, the opponent may capture it as if it had only moved one square. This capture must be made immediately on the next turn or the right is lost.
+
+CASTLING: The King moves two squares toward a Rook, and the Rook jumps to the other side of the King. Castling is only allowed if: neither the King nor the Rook has previously moved, there are no pieces between them, the King is not in check, and the King does not pass through or land on a square that is under attack.
+
+PAWN PROMOTION: When a Pawn reaches the opposite end of the board, it must be promoted to a Queen, Rook, Bishop, or Knight of the same color. Most players promote to a Queen.
+
+CHECK AND CHECKMATE
+A King is in check when it is under attack by an opponent's piece. A player in check must resolve the check immediately by moving the King, blocking the attack, or capturing the attacking piece. If a player cannot escape check, that is checkmate and the game is over — the player who delivered checkmate wins.
+
+STALEMATE
+If a player has no legal moves but is not in check, the game ends in a draw by stalemate.
+
+DRAWS
+A game is drawn by stalemate, mutual agreement, or if the same position occurs three times. If neither player has enough pieces to deliver checkmate, the game is also a draw.
+
+END OF GAME
+The game ends when one player achieves checkmate, a draw is agreed upon, or a player resigns.
